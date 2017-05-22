@@ -9,6 +9,6 @@ the file as part of a build)
 
 ## Notes
 The default environment file is ".env", and this should be used for vars at the compose level.  Services have the
-option to use the evn_file: key to specify file (or list) of environment variable files.
+option to use the env_file: key to specify file (or list) of environment variable files.
 
 
